@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sunny1324
 - 👀 I’m interested in android development 
 - 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaboration learning portal 
+- 💞️ I’m looking to collaboration projects
 - 📫 How to reach me sunnyhardstar@gmail.com
 
 <!---
